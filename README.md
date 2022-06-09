@@ -4,6 +4,5 @@ MUTAG is a collection of nitroaromatic compounds and the goal is to predict thei
 
 Libraries used - Networkx, DGL, PyTorch
 
-Overview of Graph Classification with GNN¶
-Graph classification requires a model to predict certain graph-level properties of a single graph given its node and edge features. Molecular property prediction is one particular application.
+Overview of Graph Classification with GNN - Graph classification requires a model to predict certain graph-level properties of a single graph given its node and edge features. Molecular property prediction is one particular application.
 
